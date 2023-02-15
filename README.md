@@ -1,4 +1,4 @@
-# RESUMEPARSER
+# INTENT CLASSIFICATION
 STEP==>1 CONVERT TEXT FILE INTO JSONL
 convert text file into jsonl with the help of createdata.py
 
